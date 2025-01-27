@@ -67,7 +67,6 @@ driver.execute_script("arguments[0].click();", buy_stars_button)
 # Ожидание завершения действий
 time.sleep(5)
 
-# Закрытие браузера (не обязательно, если ты хочешь оставить браузер открытым)
-# driver.quit()
+
 
 
